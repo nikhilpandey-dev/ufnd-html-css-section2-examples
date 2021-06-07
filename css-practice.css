@@ -1,0 +1,10 @@
+ul {
+	display: flex; /*flexbox activated*/
+}
+
+li {
+	flex: auto; /*remember this is same as flex: 1 1 auto;*/
+	border: 2px solid red;
+	margin: 2em;
+    background-color: #8cacea;
+}
